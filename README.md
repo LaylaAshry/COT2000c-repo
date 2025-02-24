@@ -1,2 +1,2 @@
 # COT2000c-repo
-This is where I will keep my COT2000 lab codes. 
+This repo contains lab 4 and lab 5 codes.
